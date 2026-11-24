@@ -18,7 +18,7 @@ RESPONSES = {
  "examinations": "Examinations: each semester has two internal tests (30 marks) and one end-semester exam (70 marks). A minimum of 75% attendance is required to sit the exams. Hall tickets are issued 7 days before the exam, and results are published about 30 days after the exams.",
  "hostel": "Hostel: separate boys' and girls' hostels with Wi-Fi, mess, laundry, 24x7 security and a study room. Rooms are allotted on a first-come basis after admission. Annual hostel fee (sample): Rs. 60,000 including mess.",
  "library": "Library: open Monday-Saturday, 8:30 AM - 6:00 PM. It holds 40,000+ books, journals, e-resources (IEEE, NPTEL), a digital section and reading halls. Students can borrow up to 3 books for 14 days using their ID card.",
- "contact": "Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.",
+ "contact": "Contact: Admissions Office, TopGrade Innovation, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.",
  "greeting": "Hello! I'm the SIT student assistant. Ask me about admissions, courses, fees, eligibility, internships, placements, scholarships, exams, hostel, library or contact details.",
 }
 QUESTIONS = {

@@ -2,7 +2,7 @@
 
 A working NLP chatbot that answers college questions through a web UI. Pipeline: **preprocessing -> TF-IDF -> Logistic Regression intent classifier -> confidence check -> response mapping -> Flask JSON API -> chat UI.**
 
-> **Data disclaimer:** the college is a fictional *Sample Institute of Technology (SIT)*. All answers (fees, dates, phone, etc.) are **illustrative sample data**, not verified facts. The 299 questions are self-created by the project author (paraphrases/typos a student might type). Replace `dataset/build_dataset.py` content with verified details from your college website, FAQ page and brochure before real use.
+> **Data disclaimer:** the college is a fictional *TopGrade Innovation (SIT)*. All answers (fees, dates, phone, etc.) are **illustrative sample data**, not verified facts. The 299 questions are self-created by the project author (paraphrases/typos a student might type). Replace `dataset/build_dataset.py` content with verified details from your college website, FAQ page and brochure before real use.
 
 ## Problem statement
 Students repeatedly ask the college office the same questions (admission, fees, hostel...). A chatbot that understands varied phrasings can answer them instantly.

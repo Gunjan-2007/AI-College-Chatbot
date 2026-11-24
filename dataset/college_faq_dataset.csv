@@ -68,24 +68,17 @@ steps for registration and admission,admission,"Admission procedure: 1) Register
 tell me about admission rules,admission,"Admission procedure: 1) Register on the college admission portal. 2) Fill the online application form and upload marksheets, ID proof and photo. 3) Pay the application fee. 4) Appear for the entrance exam / counselling round. 5) Verify documents and pay the first-semester fee to confirm your seat.
 
 (Sample information - please confirm with the college office.)"
-What courses do you offer?,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
+What courses do you offer?,courses,"TopGrade Innovation offers the following programmes: B.Tech in Computer Science, Information Technology, Electronics and Communication, Mechanical Engineering and Civil Engineering (4 years); BCA (3 years); BBA (3 years); MBA (2 years); and MCA (2 years). All programmes are part of our fictional sample college dataset. For admission details and eligibility, contact the Admissions Office.
 
 (Sample information - please confirm with the college office.)"
-Which departments are available?,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
+Which departments are available?,courses,"TopGrade Innovation has the following departments: Computer Science and Engineering (CSE), Information Technology (IT), Electronics and Communication Engineering (ECE), Mechanical Engineering, Civil Engineering, Management Studies and Computer Applications. These departments offer B.Tech, BBA, BCA, MBA and MCA programmes. This is fictional sample college information.
 
 (Sample information - please confirm with the college office.)"
-List all the programmes in the college,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
-
+List all the programmes in the college,courses,"TopGrade Innovation offers five programmes: B.Tech (4 years), BCA (3 years), BBA (3 years), MBA (2 years) and MCA (2 years). B.Tech specializations include Computer Science and Engineering, Information Technology, Electronics and Communication, Mechanical Engineering and Civil Engineering. These are fictional sample programmes.
 (Sample information - please confirm with the college office.)"
-Do you have computer science branch?,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
-
-(Sample information - please confirm with the college office.)"
-what branches are there in btech,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
-
-(Sample information - please confirm with the college office.)"
-tell me about MBA and MCA courses,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
-
-(Sample information - please confirm with the college office.)"
+Do you have computer science branch?,courses,"Yes, TopGrade Innovation offers a Computer Science and Engineering (CSE) branch under its B.Tech programme. Students learn programming, data structures, algorithms, databases, web development, artificial intelligence and other computer science subjects. The B.Tech programme duration is 4 years. This is fictional sample college information."
+what branches are there in btech,courses,"TopGrade Innovation offers five B.Tech branches: Computer Science and Engineering (CSE), Information Technology (IT), Electronics and Communication Engineering (ECE), Mechanical Engineering and Civil Engineering. The B.Tech programme has a duration of 4 years. Students can choose a branch according to their interests and career goals. This is fictional sample college information."
+tell me about MBA and MCA courses,courses,"TopGrade Innovation offers both MBA (Master of Business Administration) and MCA (Master of Computer Applications) programmes. The MBA is a 2-year postgraduate programme focused on business management, marketing, finance, human resources and entrepreneurship. The MCA is a 2-year postgraduate programme focused on computer applications, programming, software development, databases and computer networks. These are fictional sample college details."
 Is M.Tech available?,courses,"Departments and programmes: B.Tech in Computer Science, Information Technology, Electronics, Mechanical and Civil Engineering; M.Tech in CSE and VLSI; MBA; MCA; B.Sc. Computer Science.
 
 (Sample information - please confirm with the college office.)"
@@ -758,73 +751,73 @@ tell me about reading room facilities,library,"Library: open Monday-Saturday, 8:
 how long is the book return period,library,"Library: open Monday-Saturday, 8:30 AM - 6:00 PM. It holds 40,000+ books, journals, e-resources (IEEE, NPTEL), a digital section and reading halls. Students can borrow up to 3 books for 14 days using their ID card.
 
 (Sample information - please confirm with the college office.)"
-How can I contact the college?,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+How can I contact the college?,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-What is the college phone number?,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+What is the college phone number?,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-Where is the college located?,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+Where is the college located?,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-give me the email address,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+give me the email address,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-college address,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+college address,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-who do I contact for admission enquiry,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+who do I contact for admission enquiry,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-office timings,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+office timings,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-contact details of the principal,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+contact details of the principal,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-how to reach the college office,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+how to reach the college office,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-helpline number for students,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+helpline number for students,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-can I visit the campus,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+can I visit the campus,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-where is your campus,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+where is your campus,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-admission office phone number,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+admission office phone number,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-how do I reach you by email,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+how do I reach you by email,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-what is the website of the college,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+what is the website of the college,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-what is the college email id,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+what is the college email id,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-how can i call the college,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+how can i call the college,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-contact number for admission enquiry,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+contact number for admission enquiry,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-where is the college situated,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+where is the college situated,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-how can i get in touch with the college office,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+how can i get in touch with the college office,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-address of the campus,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+address of the campus,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-who should i contact for queries,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+who should i contact for queries,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
-what is the phone number of the admission office,contact,"Contact: Admissions Office, Sample Institute of Technology, Main Road, Sample City - 000000. Phone: +91-00000-00000. Email: info@sit-sample.edu. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
+what is the phone number of the admission office,contact,"Contact: Admissions Office, TopGrade Innovation, Bhopal, Madhya Pradesh, India. Phone: +91-12345-12345 . Email: info@topgrade.example. Office hours: Monday-Saturday, 9:30 AM - 4:30 PM.
 
 (Sample information - please confirm with the college office.)"
 Hello,greeting,"Hello! I'm the SIT student assistant. Ask me about admissions, courses, fees, eligibility, internships, placements, scholarships, exams, hostel, library or contact details."

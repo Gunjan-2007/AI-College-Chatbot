@@ -29,7 +29,7 @@ function render(m) {
 }
 function save() { sessionStorage.setItem("chat", JSON.stringify(history)); }
 function add(m) { history.push(m); save(); render(m); }
-function welcome() { add({ role: "bot", text: "Hi! I'm the SIT student assistant. Ask me about admissions, courses, fees, internships, placements, hostel and more — or tap a suggested question." }); }
+function welcome() { add({ role: "bot", text: "Welcome to TopGrade Innovation! I'm your AI college assistant. Ask me about admissions, courses, fees, internships, placements, hostel and more — or tap a suggested question." }); }
 
 async function ask(q) {
   q = (q || "").trim(); if (!q) return;

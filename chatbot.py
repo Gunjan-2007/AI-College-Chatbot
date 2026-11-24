@@ -5,9 +5,10 @@ from preprocessing import preprocess
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONFIDENCE_THRESHOLD = float(os.environ.get("CONFIDENCE_THRESHOLD", 0.35))
+
 FALLBACK = ("I'm not confident I understood that, so I don't want to give you a wrong answer. "
             "Try rephrasing (e.g. 'What are the hostel fees?'), pick a suggested question, or contact the "
-            "college office: info@sit-sample.edu / +91-00000-00000 (sample details).")
+            "TopGrade Innovation college office for further assistance.")
 
 class Chatbot:
     def __init__(self, threshold=CONFIDENCE_THRESHOLD):
